@@ -181,12 +181,12 @@ void print_factorials()
                                      720
                                     5040
                                    40320
-................Limit of 16 bit integers
+                Limit of 16 bit integers
                                   362880
                                  3628800
                                 39916800
                                479001600
-................Limit of 32 bit integers
+                Limit of 32 bit integers
                               6227020800
                              87178291200
                            1307674368000
@@ -195,7 +195,7 @@ void print_factorials()
                         6402373705728000
                       121645100408832000
                      2432902008176640000
-................Limit of 64 bit integers
+                Limit of 64 bit integers
                     51090942171709440000
                   1124000727777607680000
                  25852016738884976640000
@@ -227,10 +227,16 @@ MAPM
 ## References
 
 https://www.eff.org/awards/coop
+
 https://www.mersenne.org/
+
 https://www.geeksforgeeks.org/factorial-large-number/
+
 http://www.cplusplus.com/reference/climits/
+
 https://secure-media.collegeboard.org/apc/ap01.pdf.lr_7928.pdf
+
 https://github.com/technophilis/BigIntegerCPP
+
 https://gmplib.org/
 
